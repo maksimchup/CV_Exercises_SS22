@@ -23,3 +23,9 @@ Exercises 4:
 - Residual Networks
 - Data Augmentation
 - Batch Normalization
+
+Exercises 5: 
+- 3D Reconstruction
+- Fundamental Matrix Estimation
+- RANSAC
+- Triangulation
